@@ -39,11 +39,6 @@ export default function Footer() {
                   GitHub
                 </a>
               </li>
-              <li>
-                <a href={profile.socials.website} target="_blank" rel="noreferrer">
-                  Website
-                </a>
-              </li>
             </ul>
           </div>
 
